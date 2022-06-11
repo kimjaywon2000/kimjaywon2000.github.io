@@ -1,5 +1,5 @@
 ---
-title: "[스카이림 모드] 모드를 관리하기 쉽게 해줍니다 "Mod Organizer""
+title: "[스카이림 모드] 모드를 관리하기 쉽게 해줍니다 'Mod Organizer'"
 author: cotes
 date: 2022-06-11 12:00:00 +0800
 categories: [게임, 모드]
