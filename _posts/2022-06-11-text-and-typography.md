@@ -1,7 +1,7 @@
 ---
 title: Text and Typography
 author: cotes
-date: 2019-08-08 11:33:00 +0800
+date: 2022-06-11 11:33:00 +0800
 categories: [블로그, 튜토리얼]
 tags: [튜토리얼]
 math: true
