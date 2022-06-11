@@ -16,3 +16,5 @@ mermaid: true
 | 필수 모드         | -              |
 | 다운로드          | https://www.nexusmods.com/skyrimspecialedition/mods/6194/?     |
 | 설명             | 스카이림이 설치된 폴더에 넣으시면 됩니다        |
+
+![6194-1525726634-1392239594](https://user-images.githubusercontent.com/76558033/173184303-f7caad0c-0ad6-409a-98b7-9e1287138ddf.png)
