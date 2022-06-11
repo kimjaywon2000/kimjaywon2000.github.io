@@ -16,4 +16,6 @@ pin: true
 | 다운로드          | https://www.nexusmods.com/skyrimspecialedition/mods/6194/?     |
 | 설명             | 스카이림이 설치된 폴더에 넣으시면 됩니다        |
 
-![6194-1525726634-1392239594](https://user-images.githubusercontent.com/76558033/173184303-f7caad0c-0ad6-409a-98b7-9e1287138ddf.png)
+![mod-organizer-an-advanced-skyrim-utility-to-manage-install-detect-and-fix-mod-conflicts-and-update-all-your-mods](https://user-images.githubusercontent.com/76558033/173185119-d48f5cb7-648c-4b71-9963-1c152361ecdf.png)
+
+번개모양으로 된 부분이 모드간 덮어쓰는 것을 보여주는 것입니다 순서 배열을 통해서 모드간 충돌을 막아주고 skse나 fnis 관리에도 편리합니다
