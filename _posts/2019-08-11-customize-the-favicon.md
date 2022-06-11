@@ -1,7 +1,7 @@
 ---
 title: Customize the Favicon
-author: cotes
-date: 2019-08-11 00:34:00 +0800
+author: kimjaywon2000
+date: 2022-06-10 00:00:00 +0800
 categories: [블로그, 튜토리얼]
 tags: [튜토리얼]
 ---
