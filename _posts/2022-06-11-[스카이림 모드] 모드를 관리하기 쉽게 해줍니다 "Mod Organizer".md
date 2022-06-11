@@ -4,6 +4,7 @@ author: cotes
 date: 2022-06-11 12:00:00 +0800
 categories: [게임, 모드]
 tags: [모드]
+pin: true
 ---
 
 필수모드
