@@ -1,7 +1,7 @@
 ---
 title: Enable Google Page Views
 author: kimjaywon200
-date: 2022-06-10 00:00:00 -0500
+date: 2022-06-10 00:00:00 +0800
 categories: [블로그, 튜토리얼]
 tags: [튜토리얼]
 ---
