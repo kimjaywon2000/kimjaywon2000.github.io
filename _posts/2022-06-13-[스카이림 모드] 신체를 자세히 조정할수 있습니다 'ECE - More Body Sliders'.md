@@ -2,7 +2,7 @@
 title: "[스카이림 모드] 신체를 자세히 조정할수 있습니다 'ECE - More Body Sliders'"
 author: kimjaywon2000
 date: 2022-06-13 12:00:00 +0800
-categories: [모드, UI]
+categories: [모드, 성형]
 tags: [모드]
 ---
 
