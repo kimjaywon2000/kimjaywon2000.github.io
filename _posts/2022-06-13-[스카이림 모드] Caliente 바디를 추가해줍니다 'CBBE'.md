@@ -2,7 +2,7 @@
 title: "[스카이림 모드]  Caliente 바디를 추가해줍니다 'CBBE'"
 author: kimjaywon2000
 date: 2022-06-13 12:00:00 +0800
-categories: [모드, 바디]
+categories: [모드, 성형]
 tags: [모드]
 ---
 
