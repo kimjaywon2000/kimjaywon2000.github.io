@@ -4,7 +4,6 @@ author: kimjaywon2000
 date: 2022-06-11 12:00:00 +0800
 categories: [모드, 도구]
 tags: [모드]
-pin: true
 ---
 
 | 범주             | 내용            |
