@@ -10,7 +10,7 @@ tags: [모드]
 |:----------------|:---------------|
 | 이름             | CBBE  |
 | 필수 모드         | -              |
-| 다운로드          | https://www.nexusmods.com/skyrim/mods/2666 |
+| 다운로드          | (https://www.nexusmods.com/skyrim/mods/2666) |
 | 설명             | 풀네임은 Caliente's Beautiful Bodies Edition입니다 스카이림의 가장 대표적인 바디입니다      |
 
 ![2666-1-1439218669](https://user-images.githubusercontent.com/76558033/173366233-c762532f-0c30-4516-b4c9-ac15bdf77c26.jpg)
