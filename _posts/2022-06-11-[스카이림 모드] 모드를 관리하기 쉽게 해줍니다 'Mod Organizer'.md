@@ -2,12 +2,10 @@
 title: "[스카이림 모드] 모드를 관리하기 쉽게 해줍니다 'Mod Organizer'"
 author: kimjaywon2000
 date: 2022-06-11 12:00:00 +0800
-categories: [게임, 모드]
+categories: [모드, 도구]
 tags: [모드]
 pin: true
 ---
-
-필수모드
 
 | 범주             | 내용            |
 |:----------------|:---------------|
