@@ -1,5 +1,5 @@
 ---
-title: " 지도에 길을 추가해줍니다 'A Quality World Map'"
+title: "[스카이림 모드] 지도에 길을 추가해줍니다 'A Quality World Map'"
 author: kimjaywon2000
 date: 2022-06-13 12:00:00 +0800
 categories: [모드, UI]
