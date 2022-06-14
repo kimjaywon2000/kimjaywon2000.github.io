@@ -1,5 +1,5 @@
 ---
-title: "포즈를 관리하고 편하게 취할수 있습니다 'Nausicaa's PIS'"
+title: "[스카이림 모드] 포즈를 관리하고 편하게 취할수 있습니다 'Nausicaa's PIS'"
 author: kimjaywon2000
 date: 2022-06-13 12:00:00 +0800
 categories: [모드, 모션]
