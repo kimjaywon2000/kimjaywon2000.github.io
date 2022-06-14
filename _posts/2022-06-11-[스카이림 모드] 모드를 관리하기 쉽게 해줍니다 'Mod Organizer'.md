@@ -10,7 +10,7 @@ tags: [모드]
 |:----------------|:---------------|
 | 이름             | Mod Organizer  |
 | 필수 모드         | -              |
-| 다운로드          | <https://www.nexusmods.com/skyrimspecialedition/mods/6194/?>     |
+| 다운로드          | <https://www.nexusmods.com/skyrim/mods/1334>     |
 | 설명             | 스카이림이 설치된 폴더에 넣으시면 됩니다        |
 
 ![mod-organizer-an-advanced-skyrim-utility-to-manage-install-detect-and-fix-mod-conflicts-and-update-all-your-mods](https://user-images.githubusercontent.com/76558033/173185119-d48f5cb7-648c-4b71-9963-1c152361ecdf.png)
