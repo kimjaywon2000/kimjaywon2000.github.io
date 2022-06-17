@@ -2,8 +2,8 @@
 title: "[스카이림 모드] nini의 cme를 추가해줍니다 'nini CME'"
 author: kimjaywon2000
 date: 2022-06-13 12:00:00 +0800
-categories: [게임, 모드]
-tags: [게임]
+categories: [모드, 성형]
+tags: [모드]
 ---
 
 | 범주             | 내용            |
